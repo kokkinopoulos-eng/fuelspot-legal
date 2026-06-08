@@ -1,93 +1,93 @@
 {
- "date": "04/06/2026",
+ "date": "05/06/2026",
  "nomoi": [
   {
    "name": "Αττικης",
-   "unleaded95": 1.998,
-   "unleaded98": 2.256,
-   "diesel": 1.708,
-   "lpg": 1.053
+   "unleaded95": 1.992,
+   "unleaded98": 2.242,
+   "diesel": 1.716,
+   "lpg": 1.049
   },
   {
    "name": "Αιτωλιας και Ακαρνανιας",
-   "unleaded95": 2.05,
-   "unleaded98": 2.293,
-   "diesel": 1.747,
+   "unleaded95": 2.045,
+   "unleaded98": 2.287,
+   "diesel": 1.752,
    "lpg": 1.141
   },
   {
    "name": "Αργολιδος",
-   "unleaded95": 2.038,
-   "unleaded98": 2.289,
-   "diesel": 1.73,
-   "lpg": 1.037
+   "unleaded95": 2.032,
+   "unleaded98": 2.281,
+   "diesel": 1.733,
+   "lpg": 1.03
   },
   {
    "name": "Αρκαδιας",
-   "unleaded95": 2.057,
-   "unleaded98": 2.299,
-   "diesel": 1.748,
-   "lpg": 1.156
+   "unleaded95": 2.051,
+   "unleaded98": 2.286,
+   "diesel": 1.749,
+   "lpg": 1.151
   },
   {
    "name": "Αρτης",
-   "unleaded95": 2.023,
+   "unleaded95": 2.017,
    "unleaded98": 2.282,
-   "diesel": 1.708,
-   "lpg": 1.033
+   "diesel": 1.713,
+   "lpg": 1.028
   },
   {
    "name": "Αχαϊας",
    "unleaded95": 2.018,
-   "unleaded98": 2.285,
-   "diesel": 1.735,
-   "lpg": 1.181
+   "unleaded98": 2.277,
+   "diesel": 1.742,
+   "lpg": 1.174
   },
   {
    "name": "Βοιωτιας",
-   "unleaded95": 2.037,
-   "unleaded98": 2.302,
-   "diesel": 1.741,
-   "lpg": 1.141
+   "unleaded95": 2.029,
+   "unleaded98": 2.293,
+   "diesel": 1.743,
+   "lpg": 1.134
   },
   {
    "name": "Γρεβενων",
-   "unleaded95": 2.056,
-   "unleaded98": 2.303,
-   "diesel": 1.763,
-   "lpg": 1.182
+   "unleaded95": 2.046,
+   "unleaded98": 2.317,
+   "diesel": 1.761,
+   "lpg": 1.144
   },
   {
    "name": "Δραμας",
-   "unleaded95": 2.035,
-   "unleaded98": 2.256,
-   "diesel": 1.707,
-   "lpg": 1.074
+   "unleaded95": 2.028,
+   "unleaded98": 2.25,
+   "diesel": 1.712,
+   "lpg": 1.067
   },
   {
    "name": "Δωδεκανησου",
-   "unleaded95": 2.135,
-   "unleaded98": 2.369,
-   "diesel": 1.845,
+   "unleaded95": 2.13,
+   "unleaded98": 2.355,
+   "diesel": 1.852,
    "lpg": 1.417
   },
   {
    "name": "Εβρου",
-   "unleaded95": 2.048,
-   "unleaded98": 2.295,
+   "unleaded95": 2.038,
+   "unleaded98": 2.28,
    "diesel": 1.746,
-   "lpg": 1.214
+   "lpg": 1.207
   },
   {
    "name": "Ευβοιας",
-   "unleaded95": 2.034,
-   "unleaded98": 2.273,
-   "diesel": 1.737,
+   "unleaded95": 2.025,
+   "unleaded98": 2.265,
+   "diesel": 1.742,
    "lpg": 1.137
   },
   {
    "name": "Ευρυτανιας",
-   "unleaded95": 2.052,
+   "unleaded95": 2.024,
    "unleaded98": 2.385,
    "diesel": 1.82,
    "lpg": 1.281
@@ -95,267 +95,267 @@
   {
    "name": "Ζακυνθου",
    "unleaded95": 2.088,
-   "unleaded98": 2.274,
-   "diesel": 1.77,
+   "unleaded98": 2.271,
+   "diesel": 1.773,
    "lpg": 1.256
   },
   {
    "name": "Ηλειας",
-   "unleaded95": 2.034,
-   "unleaded98": 2.266,
-   "diesel": 1.723,
-   "lpg": 1.057
+   "unleaded95": 2.029,
+   "unleaded98": 2.258,
+   "diesel": 1.727,
+   "lpg": 1.048
   },
   {
    "name": "Ημαθιας",
-   "unleaded95": 2.01,
-   "unleaded98": 2.256,
-   "diesel": 1.701,
-   "lpg": 0.983
+   "unleaded95": 2.001,
+   "unleaded98": 2.246,
+   "diesel": 1.708,
+   "lpg": 0.977
   },
   {
    "name": "Ηρακλειου",
-   "unleaded95": 2.1,
-   "unleaded98": 2.284,
-   "diesel": 1.783,
-   "lpg": 1.312
+   "unleaded95": 2.092,
+   "unleaded98": 2.265,
+   "diesel": 1.786,
+   "lpg": 1.311
   },
   {
    "name": "Θεσπρωτιας",
-   "unleaded95": 2.029,
-   "unleaded98": 2.253,
-   "diesel": 1.755,
-   "lpg": 1.117
+   "unleaded95": 2.015,
+   "unleaded98": 2.249,
+   "diesel": 1.754,
+   "lpg": 1.102
   },
   {
    "name": "Θεσσαλονικης",
-   "unleaded95": 2.015,
-   "unleaded98": 2.265,
-   "diesel": 1.716,
-   "lpg": 1.007
+   "unleaded95": 2.008,
+   "unleaded98": 2.252,
+   "diesel": 1.726,
+   "lpg": 1.001
   },
   {
    "name": "Ιωαννινων",
-   "unleaded95": 2.029,
-   "unleaded98": 2.307,
-   "diesel": 1.739,
-   "lpg": 1.002
+   "unleaded95": 2.024,
+   "unleaded98": 2.302,
+   "diesel": 1.74,
+   "lpg": 0.991
   },
   {
    "name": "Καβαλας",
-   "unleaded95": 2.028,
-   "unleaded98": 2.276,
-   "diesel": 1.712,
-   "lpg": 1.045
+   "unleaded95": 2.024,
+   "unleaded98": 2.263,
+   "diesel": 1.723,
+   "lpg": 1.027
   },
   {
    "name": "Καρδιτσης",
-   "unleaded95": 2.041,
-   "unleaded98": 2.282,
-   "diesel": 1.74,
-   "lpg": 1.084
+   "unleaded95": 2.029,
+   "unleaded98": 2.273,
+   "diesel": 1.737,
+   "lpg": 1.066
   },
   {
    "name": "Καστοριας",
-   "unleaded95": 2.023,
-   "unleaded98": 2.268,
-   "diesel": 1.718,
+   "unleaded95": 2.012,
+   "unleaded98": 2.255,
+   "diesel": 1.722,
    "lpg": 1.054
   },
   {
    "name": "Κερκυρας",
-   "unleaded95": 2.076,
-   "unleaded98": 2.308,
-   "diesel": 1.78,
+   "unleaded95": 2.066,
+   "unleaded98": 2.294,
+   "diesel": 1.784,
    "lpg": 1.428
   },
   {
    "name": "Κεφαλληνιας",
-   "unleaded95": 2.09,
-   "unleaded98": 2.328,
-   "diesel": 1.812,
-   "lpg": 1.231
+   "unleaded95": 2.081,
+   "unleaded98": 2.315,
+   "diesel": 1.808,
+   "lpg": 1.174
   },
   {
    "name": "Κιλκις",
-   "unleaded95": 2.027,
-   "unleaded98": 2.274,
-   "diesel": 1.724,
+   "unleaded95": 2.022,
+   "unleaded98": 2.269,
+   "diesel": 1.731,
    "lpg": 1.121
   },
   {
    "name": "Κοζανης",
-   "unleaded95": 2.022,
-   "unleaded98": 2.231,
-   "diesel": 1.733,
-   "lpg": 1.001
+   "unleaded95": 2.006,
+   "unleaded98": 2.226,
+   "diesel": 1.736,
+   "lpg": 0.99
   },
   {
    "name": "Κορινθιας",
-   "unleaded95": 2.005,
-   "unleaded98": 2.256,
-   "diesel": 1.715,
-   "lpg": 1.087
+   "unleaded95": 2.0,
+   "unleaded98": 2.24,
+   "diesel": 1.724,
+   "lpg": 1.079
   },
   {
    "name": "Κυκλαδων",
-   "unleaded95": 2.255,
-   "unleaded98": 2.462,
+   "unleaded95": 2.249,
+   "unleaded98": 2.461,
    "diesel": 1.944,
    "lpg": 1.408
   },
   {
    "name": "Λακωνιας",
-   "unleaded95": 2.047,
-   "unleaded98": 2.321,
-   "diesel": 1.754,
-   "lpg": 1.074
+   "unleaded95": 2.039,
+   "unleaded98": 2.307,
+   "diesel": 1.756,
+   "lpg": 1.058
   },
   {
    "name": "Λαρισης",
-   "unleaded95": 2.034,
-   "unleaded98": 2.27,
-   "diesel": 1.729,
-   "lpg": 1.05
+   "unleaded95": 2.026,
+   "unleaded98": 2.254,
+   "diesel": 1.735,
+   "lpg": 1.047
   },
   {
    "name": "Λασιθιου",
-   "unleaded95": 2.096,
-   "unleaded98": 2.294,
-   "diesel": 1.777,
-   "lpg": 1.221
+   "unleaded95": 2.091,
+   "unleaded98": 2.277,
+   "diesel": 1.775,
+   "lpg": 1.205
   },
   {
    "name": "Λεσβου",
-   "unleaded95": 2.099,
-   "unleaded98": 2.322,
-   "diesel": 1.845,
-   "lpg": 1.283
+   "unleaded95": 2.089,
+   "unleaded98": 2.311,
+   "diesel": 1.84,
+   "lpg": 1.277
   },
   {
    "name": "Λευκαδος",
-   "unleaded95": 2.072,
-   "unleaded98": 2.313,
-   "diesel": 1.8,
+   "unleaded95": 2.069,
+   "unleaded98": 2.307,
+   "diesel": 1.804,
    "lpg": 1.237
   },
   {
    "name": "Μαγνησιας",
-   "unleaded95": 2.048,
-   "unleaded98": 2.278,
+   "unleaded95": 2.043,
+   "unleaded98": 2.259,
    "diesel": 1.74,
-   "lpg": 1.034
+   "lpg": 1.042
   },
   {
    "name": "Μεσσηνιας",
-   "unleaded95": 2.051,
-   "unleaded98": 2.299,
-   "diesel": 1.748,
-   "lpg": 1.212
+   "unleaded95": 2.04,
+   "unleaded98": 2.294,
+   "diesel": 1.75,
+   "lpg": 1.208
   },
   {
    "name": "Ξανθης",
-   "unleaded95": 2.029,
-   "unleaded98": 2.29,
-   "diesel": 1.728,
-   "lpg": 1.03
+   "unleaded95": 2.026,
+   "unleaded98": 2.28,
+   "diesel": 1.738,
+   "lpg": 1.023
   },
   {
    "name": "Πελλης",
-   "unleaded95": 2.025,
-   "unleaded98": 2.242,
-   "diesel": 1.723,
-   "lpg": 1.024
+   "unleaded95": 2.015,
+   "unleaded98": 2.231,
+   "diesel": 1.726,
+   "lpg": 1.016
   },
   {
    "name": "Πιεριας",
-   "unleaded95": 2.005,
-   "unleaded98": 2.252,
-   "diesel": 1.713,
-   "lpg": 1.068
+   "unleaded95": 1.994,
+   "unleaded98": 2.243,
+   "diesel": 1.715,
+   "lpg": 1.056
   },
   {
    "name": "Πρεβεζης",
-   "unleaded95": 2.034,
-   "unleaded98": 2.23,
-   "diesel": 1.71,
-   "lpg": 1.038
+   "unleaded95": 2.026,
+   "unleaded98": 2.233,
+   "diesel": 1.723,
+   "lpg": 1.03
   },
   {
    "name": "Ρεθυμνης",
-   "unleaded95": 2.079,
-   "unleaded98": 2.283,
-   "diesel": 1.774,
+   "unleaded95": 2.075,
+   "unleaded98": 2.276,
+   "diesel": 1.78,
    "lpg": 1.248
   },
   {
    "name": "Ροδοπης",
-   "unleaded95": 2.054,
-   "unleaded98": 2.268,
-   "diesel": 1.731,
-   "lpg": 1.082
+   "unleaded95": 2.04,
+   "unleaded98": 2.276,
+   "diesel": 1.734,
+   "lpg": 1.067
   },
   {
    "name": "Σαμου",
-   "unleaded95": 2.068,
-   "unleaded98": 2.277,
-   "diesel": 1.803,
+   "unleaded95": 2.065,
+   "unleaded98": 2.26,
+   "diesel": 1.8,
    "lpg": 1.369
   },
   {
    "name": "Σερρων",
-   "unleaded95": 2.032,
-   "unleaded98": 2.273,
-   "diesel": 1.706,
-   "lpg": 1.042
+   "unleaded95": 2.023,
+   "unleaded98": 2.263,
+   "diesel": 1.712,
+   "lpg": 1.028
   },
   {
    "name": "Τρικαλων",
-   "unleaded95": 2.037,
-   "unleaded98": 2.239,
-   "diesel": 1.735,
-   "lpg": 1.088
+   "unleaded95": 2.027,
+   "unleaded98": 2.235,
+   "diesel": 1.737,
+   "lpg": 1.082
   },
   {
    "name": "Φθιωτιδος",
-   "unleaded95": 2.045,
-   "unleaded98": 2.328,
+   "unleaded95": 2.033,
+   "unleaded98": 2.32,
    "diesel": 1.745,
-   "lpg": 1.091
+   "lpg": 1.079
   },
   {
    "name": "Φλωρινης",
-   "unleaded95": 2.063,
-   "unleaded98": 2.265,
-   "diesel": 1.737,
-   "lpg": 1.138
+   "unleaded95": 2.05,
+   "unleaded98": 2.271,
+   "diesel": 1.727,
+   "lpg": 1.119
   },
   {
    "name": "Φωκιδος",
-   "unleaded95": 2.022,
-   "unleaded98": 2.306,
+   "unleaded95": 2.018,
+   "unleaded98": 2.295,
    "diesel": 1.746,
    "lpg": 1.184
   },
   {
    "name": "Χαλκιδικης",
-   "unleaded95": 2.045,
-   "unleaded98": 2.304,
-   "diesel": 1.75,
-   "lpg": 1.102
+   "unleaded95": 2.029,
+   "unleaded98": 2.299,
+   "diesel": 1.753,
+   "lpg": 1.09
   },
   {
    "name": "Χανιων",
-   "unleaded95": 2.051,
-   "unleaded98": 2.295,
-   "diesel": 1.763,
-   "lpg": 1.212
+   "unleaded95": 2.048,
+   "unleaded98": 2.294,
+   "diesel": 1.773,
+   "lpg": 1.213
   },
   {
    "name": "Χιου",
-   "unleaded95": 2.008,
-   "unleaded98": 2.292,
-   "diesel": 1.748,
+   "unleaded95": 2.004,
+   "unleaded98": 2.281,
+   "diesel": 1.753,
    "lpg": 1.469
   }
  ]
